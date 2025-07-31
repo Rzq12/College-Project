@@ -6,17 +6,16 @@ dataSource <<- 0
 
 window <- tktoplevel()
 
-# Modern Color Palette - Professional Blue Theme
-primary_blue <- "#2C3E50"      # Dark blue-gray for headers
-secondary_blue <- "#3498DB"    # Bright blue for accents
-light_blue <- "#ECF0F1"        # Light gray-blue for backgrounds
-accent_blue <- "#5DADE2"       # Medium blue for highlights
-success_green <- "#27AE60"     # Green for success buttons
-danger_red <- "#E74C3C"        # Red for danger buttons
-text_dark <- "#2C3E50"         # Dark text
-text_light <- "#FFFFFF"        # White text
-card_bg <- "#FFFFFF"           # White card backgrounds
-border_color <- "#BDC3C7"      # Light gray for borders
+
+primary_blue <- "#2C3E50"     
+secondary_blue <- "#3498DB"    
+light_blue <- "#ECF0F1"        
+accent_blue <- "#5DADE2"      
+success_green <- "#27AE60"     
+danger_red <- "#E74C3C"        
+text_dark <- "#2C3E50"         
+card_bg <- "#FFFFFF"           
+border_color <- "#BDC3C7"      
 
 # Modern Typography
 bold_besar <- tkfont.create(family="Segoe UI", size=28, weight='bold')
