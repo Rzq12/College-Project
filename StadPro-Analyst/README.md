@@ -40,7 +40,7 @@
 
 ### 📊 Data Visualization
 
-- Displays visual representations such as histograms and bar charts (if available).
+- Displays visual representations such as histograms and box plot
 
 ---
 
