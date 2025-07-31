@@ -90,9 +90,7 @@
 
 | Dashboard                               | Analisis Probabilitas                         | Distribusi Diskrit                  | Distribusi Kontinu                  |
 | --------------------------------------- | --------------------------------------------- | ----------------------------------- | ----------------------------------- |
-| ![Dashboard](screenshots/dashboard.png) | ![Probabilitas](screenshots/probabilitas.png) | ![Diskrit](screenshots/diskrit.png) | ![Kontinu](screenshots/kontinu.png) |
-
-> Letakkan gambar screenshot di dalam folder `screenshots/` di repo Anda.
+| ![Dashboard](Screenshots/Dashboard.png) | ![Probabilitas](Screenshots/Probabilitas.png) | ![Diskrit](Screenshots/Diskrit.png) | ![Kontinu](Screenshots/Kontinu.png) |
 
 ---
 
