@@ -127,8 +127,6 @@ This project is a database system implementation for hotel management that inclu
 
 ![Database Relationship Model](Image/Relation_Model.png)
 
-```
-
 **Relationship Explanation:**
 
 1. **Tamu → Reservasi** (1:N): One guest can have many reservations
@@ -139,9 +137,9 @@ This project is a database system implementation for hotel management that inclu
 6. **Reservasi → Penggunaan_Layanan** (1:N): One reservation can use many services
 7. **daftar_Layanan → Penggunaan_Layanan** (1:N): One service can be used multiple times
 
-## 📁 Folder Structure
-
 ```
+
+## 📁 Folder Structure
 
 Hotel-Management-Database-SQL/
 │
@@ -166,7 +164,7 @@ Hotel-Management-Database-SQL/
 │
 └── README.md # Project documentation
 
-````
+```
 
 ## 🚀 Installation
 
@@ -186,6 +184,8 @@ Hotel-Management-Database-SQL/
    ```sql
    -- Open file Schema/hotel-tables.sql
    -- Execute the entire script
+   ```
+
 ````
 
 4. **Import data from CSV files**
@@ -247,3 +247,4 @@ Queries to calculate discounts based on reservation method and length of stay.
 ## 📝 License
 
 This project was created for learning purposes and college assignments.
+````
