@@ -188,8 +188,6 @@ Hotel-Management-Database-SQL/
    -- Execute the entire script
    ```
 
-````
-
 4. **Import data from CSV files**
 
    - Right-click on the table → Table Data Import Wizard
@@ -249,4 +247,3 @@ Queries to calculate discounts based on reservation method and length of stay.
 ## 📝 License
 
 This project was created for learning purposes and college assignments.
-````
