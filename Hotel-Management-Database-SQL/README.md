@@ -137,9 +137,11 @@ This project is a database system implementation for hotel management that inclu
 6. **Reservasi → Penggunaan_Layanan** (1:N): One reservation can use many services
 7. **daftar_Layanan → Penggunaan_Layanan** (1:N): One service can be used multiple times
 
+## 📁 Folder Structure
+
 ```
 
-## 📁 Folder Structure
+
 
 Hotel-Management-Database-SQL/
 │
