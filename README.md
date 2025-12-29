@@ -6,9 +6,10 @@ Welcome to this repository! It contains a collection of academic projects I have
 
 ## 📁 Project List
 
-| Project Name      | Description                                                                 | Language / Tools    |
-| ----------------- | --------------------------------------------------------------------------- | ------------------- |
-| `StadPro-Analyst` | A GUI-based application for descriptive statistics and probability analysis | R, tcltk, DescTools |
+| Project Name                    | Description                                                                  | Language / Tools       |
+| ------------------------------- | ---------------------------------------------------------------------------- | ---------------------- |
+| `StadPro-Analyst`               | A GUI-based application for descriptive statistics and probability analysis  | R, tcltk, DescTools    |
+| `Hotel-Management-Database-SQL` | A hotel management database system with reservations, payments, and services | MySQL, MySQL Workbench |
 
 > 💡 Each project folder includes a dedicated README with detailed explanations.
 
